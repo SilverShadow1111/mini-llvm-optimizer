@@ -1,0 +1,6 @@
+build/
+*.so
+examples/*.ll
+tests/*_optimized.ll
+tests/*_result.ll
+.vscode/
